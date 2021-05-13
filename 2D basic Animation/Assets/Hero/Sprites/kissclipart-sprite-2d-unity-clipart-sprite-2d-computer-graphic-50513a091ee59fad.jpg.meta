@@ -1,0 +1,1823 @@
+fileFormatVersion: 2
+guid: 23ae68eb89d6a45cc873c3da677bf879
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_0
+    21300002: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_1
+    21300004: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_2
+    21300006: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_3
+    21300008: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_4
+    21300010: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_5
+    21300012: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_6
+    21300014: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_7
+    21300016: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_8
+    21300018: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_9
+    21300020: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_10
+    21300022: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_11
+    21300024: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_12
+    21300026: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_13
+    21300028: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_14
+    21300030: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_15
+    21300032: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_16
+    21300034: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_17
+    21300036: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_18
+    21300038: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_19
+    21300040: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_20
+    21300042: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_21
+    21300044: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_22
+    21300046: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_23
+    21300048: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_24
+    21300050: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_25
+    21300052: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_26
+    21300054: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_27
+    21300056: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_28
+    21300058: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_29
+    21300060: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_30
+    21300062: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_31
+    21300064: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_32
+    21300066: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_33
+    21300068: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_34
+    21300070: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_35
+    21300072: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_36
+    21300074: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_37
+    21300076: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_38
+    21300078: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_39
+    21300080: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_40
+    21300082: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_41
+    21300084: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_42
+    21300086: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_43
+    21300088: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_44
+    21300090: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_45
+    21300092: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_46
+    21300094: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_47
+    21300096: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_48
+    21300098: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_49
+    21300100: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_50
+    21300102: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_51
+    21300104: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_52
+    21300106: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_53
+    21300108: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_54
+    21300110: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_55
+    21300112: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_56
+    21300114: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_57
+    21300116: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_58
+    21300118: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_59
+    21300120: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_60
+    21300122: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_61
+    21300124: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_62
+    21300126: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_63
+    21300128: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_64
+    21300130: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_65
+    21300132: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_66
+    21300134: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_67
+    21300136: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_68
+    21300138: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_69
+    21300140: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_70
+    21300142: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_71
+    21300144: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_72
+    21300146: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_73
+    21300148: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_74
+    21300150: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_75
+    21300152: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_76
+    21300154: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_77
+    21300156: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_78
+    21300158: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_79
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6195d7554a874bac982f1fe46746c99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 211
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a43dedc6a8a41c09c4d9f0fca18ee2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 211
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f473aba44406044578c880a23687966a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 211
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cfa6412ae15490fb2cc68bb73031a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 211
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e64312953cc415ca6665ab76f3537c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 211
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0827636d1e64141b5a545fe00b554362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 211
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885b975b784e54e95afaab98bf5b3c48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 211
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163ef7a94da42405192b76e2139e7c60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 211
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62f9f0b7f4c14a81b5b086f9e5140b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 211
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc57514df5dca42dea124c888d1fb441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404b23b12d81540c6b77c8f12f681266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 183
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d788005051c44f5a2ea812c48044f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 183
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea893abe745e744208005cddd941cba1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 183
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2749157a41b404ba217f23a9e0fbdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 183
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4697549041d3d47ed831e7dcaac8b786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 183
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f5dd1a8cec2435095867ad8570db5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 183
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e14783a355e9421e9739335ffd6a289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 183
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496beaedbdd2741df86a289d0cc54a02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 183
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e07b2f50891494dbeadacf655ff873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 183
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7938603d776a4e45b1a9c5f3cc9ba2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c2da0fcebca40c8be02576805b9936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 155
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09faf856acde4b348b3bf0c6bd6ad79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 155
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431a22c2070df46b1aacdb0570231962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 155
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9083d0bda2d6e4a3c9ab7c3cc6ece1c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 155
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65980efe463e4449ba1df04344d9e234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 155
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cee0eb229e64321ac214f5b178431c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_26
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 155
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1c61cc1f0194f90a0243631da46dc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 155
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee49a65ba94ce4307ab941dcc3af5b89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 155
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5139114c55947da90b503931859834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_29
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 155
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837a13b07cbb14aaea5c4f0bd04d8664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503d2abfa61234f8b8260f995a5dc014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_31
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec454f50239a432faed1df2df06bc89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a282263b5c44e4bb66db90f74847cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2f3e9dc340c4f61a2c310e19de3fc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52c5897c017b44c28584217e8a606d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_35
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b0dc778f56946f485cdc83e2790d74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_36
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccf04990322a48ccae0ec3af4e86b15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4481ce19e7c84021ad1f414bf36de4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f76bf09e83e148e5bd977c5db0988a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f29598306794814a0d76845c05bac5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1ed6ce588a5494995fe23fa59f4b66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 99
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54d53ca7c74c4513a6c39727a17c9fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 99
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b04671a987684b40821869484f0a462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_43
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 99
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75adf312beb14cf19997c08a30d2b4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 99
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a73b5cc02a64d39ae2f8e51b2509ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 99
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fa41dc900d34c4387a3905e326cb0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_46
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 99
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cf78d145b3b44f1908a5ce34af811b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_47
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 99
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decc8cb157f2c46d6b3f5ced411bbf8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 99
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44f1488d33594e34afed75b89e6275d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_49
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 99
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c981643f50d5c426780bf65e58bd2114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de250b4531e74d44b4d3afdfd2bc933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_51
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 71
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3425367cec6874cdb86bc94bcfb260c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 71
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2415d844914ee45c586bf8d1c8453f85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_53
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 71
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f05c5c6312844f34964a0a03164ec73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851c6f17c033a4ee693fc54354b87656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_55
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 71
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3ec66d541364554a86b69b107d0b88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_56
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 71
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dbcdf979d0341049bdfb25a9ad8d88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_57
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 71
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc310d55e4d5449c8baacf91c492ffb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 71
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbeacd4a23014b5ca4c46e3bde4423e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 71
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f21ba76437b423585ff077ecf5d356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc6846afd65443c8bc1091af6fef808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_61
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 43
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a14fb091741642f2be61c872699a7da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 43
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b35f5854a4f4164b073c4013c1157f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_63
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 43
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085562c9e3ebd4fe9994e3c2c9e55fbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 43
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9624d9dd3efc41c9a418215c2edd706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_65
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 43
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3ff7c9b69ec41deae387e347ac54a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_66
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 43
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c39abb028364461cb270ca466aec359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_67
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 43
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909742cbe2c744c8fbf55fede9d3953e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 43
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f252478cc84b47a1aa87d213dfcc87d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_69
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 43
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9d8c0ec75b64e50ba1235d44970b7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e444a8a869f8946dabf592301a2a4189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_71
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 15
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9b96663fe2b4e188be1ce1bf7f9d98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_72
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 15
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ec0097dbeb843f193aeff80db82911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_73
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 15
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51daae67ed4143269056dd099248361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_74
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 15
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c969dbf55c1f147d7b982d52a6a24d2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_75
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 15
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55fe140a7bc64ff3aca9e2c2da8932f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_76
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 15
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0791d89b1e8cd464a84af14223d2bf10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_77
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 15
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce9674b4cd094db281d49410e57cade
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2299a339119d44d4b3c3be5bfaae9ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-2d-unity-clipart-sprite-2d-computer-graphic-50513a091ee59fad_79
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 15
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a00840bbf934dcf94649d333f33a07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 53f356859e6074362af84ace147a61d1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
